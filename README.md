@@ -57,9 +57,8 @@ psql -U <username> -d <dbname> -f scripts/2.dimension_exploration.sql
 
 📬 Contact
 Author: Mohd Mustafa
-📧 [Your Email]
-🔗 LinkedIn Profile
-💻 GitHub
+📧 mohdmustafa969@gmail.com
+🔗 LinkedIn Profile : https://www.linkedin.com/in/mustafa1622/
 
 📄 License
 This project is licensed under the MIT License.
