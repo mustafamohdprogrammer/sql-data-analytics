@@ -30,3 +30,38 @@ sql-data-analytics/
 │   └── your_dataset.csv
 │
 └── README.md
+
+
+🎯 Project Objectives
+Perform data exploration using SQL
+
+Identify trends, rankings, and seasonal changes
+
+Conduct magnitude, cumulative, and performance analysis
+
+Build segmentation logic for actionable insights
+
+🚀 Getting Started
+1️⃣ Clone Repository
+
+git clone https://github.com/mustafamohdprogrammer/sql-data-analytics.git
+cd sql-data-analytics
+
+2️⃣ Set Up Database
+Run:
+psql -U <username> -d <dbname> -f scripts/1.init-database.sql
+
+3️⃣ Execute Analysis Scripts
+psql -U <username> -d <dbname> -f scripts/2.dimension_exploration.sql
+
+
+📬 Contact
+Author: Mohd Mustafa
+📧 [Your Email]
+🔗 LinkedIn Profile
+💻 GitHub
+
+📄 License
+This project is licensed under the MIT License.
+
+
